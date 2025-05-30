@@ -1,2 +1,2 @@
 # Mi primer archivo de documentación 
-Este archvio es de prueba y servirá para entender como funciona GIT
+Este archivo es de prueba y sirve para ver como funciona GIT.
