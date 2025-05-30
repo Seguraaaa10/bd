@@ -2,7 +2,12 @@
 int main()
 {
 	int i = 0; 
-	for(;i<10;i++)
-	printf("Hola mundo");
+	while(1)
+		{
+    		printf("Hola mundo");
+			i++
+			if(1<10)
+				break;
+		}
 	return 0;
 }
